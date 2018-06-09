@@ -1,1 +1,1 @@
-A a professional portfolio site using HTML/CSS
+A professional portfolio site using HTML/CSS
